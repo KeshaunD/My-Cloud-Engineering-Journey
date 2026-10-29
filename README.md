@@ -6,6 +6,8 @@ This repository documents my 60-day hands-on learning journey as I develop pract
 
 I'll be sharing what I learn, the challenges I encounter, and how I troubleshoot them.
 
+Thanks for following along with my journey!
+
 ## Learning Goals
 
 - Strengthen Linux administration and troubleshooting skills
@@ -27,4 +29,14 @@ I'll be sharing what I learn, the challenges I encounter, and how I troubleshoot
 - Investigated service logs using `journalctl`.
 - Practiced troubleshooting a failed Python application and database connection.
 
-Thanks for following along with my journey!
+
+### Day 2 — Linux Administration & Permissions
+
+- Provisioned a Debian 13 LXC container using Proxmox.
+- Configured and verified network connectivity, IP addressing, and DNS.
+- Investigated Linux logs and SSH services using `journalctl` and `systemctl`.
+- Practiced file permissions using `chmod` and file ownership using `chown`.
+- Created a Linux user and tested access using the principle of least privilege.
+- Troubleshot command syntax errors and permission-denied issues.
+
+**Lab Documentation:** [Day 2 — Linux Administration](01-linux/day-02.md)
